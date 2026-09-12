@@ -1,0 +1,17 @@
+{
+  "name": "Biswas PVC Cards",
+  "short_name": "Biswas PVC",
+  "description": "Order premium PVC cards online",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
