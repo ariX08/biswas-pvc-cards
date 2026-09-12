@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 170">
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="150" height="150" rx="20" fill="#14203A"/>
+    <rect x="12" y="122" width="126" height="15" rx="4" fill="#f97316"/>
+    <rect x="18" y="34" width="40" height="29" rx="6" fill="#D4A24C"/>
+    <line x1="18" y1="45" x2="58" y2="45" stroke="#14203A" stroke-width="2"/>
+    <line x1="18" y1="52" x2="58" y2="52" stroke="#14203A" stroke-width="2"/>
+    <line x1="35" y1="34" x2="35" y2="63" stroke="#14203A" stroke-width="2"/>
+    <text x="118" y="100" text-anchor="middle" dominant-baseline="central"
+          font-family="Arial, sans-serif" font-weight="800" font-size="66" fill="#FFFFFF">B</text>
+  </g>
+  <g transform="translate(195,0)">
+    <text x="0" y="82" font-family="Arial, sans-serif" font-weight="800" font-size="58" fill="#14203A">BISWAS</text>
+    <rect x="2" y="96" width="300" height="3" fill="#f97316"/>
+    <text x="0" y="124" font-family="Arial, sans-serif" font-weight="600" font-size="21" letter-spacing="7" fill="#f97316">PVC CARDS</text>
+  </g>
+</svg>
